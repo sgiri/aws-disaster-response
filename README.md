@@ -8,7 +8,7 @@ Find out more about this project at its [Devpost page](https://devpost.com/submi
 
 ## Meet the team
 
-This repository contais the work of the **AI Wonder Girls** team for the [AWS Disaster Response Hackathon](https://awsdisasterresponse.devpost.com/)! 
+This repository contains the work of the **AI Wonder Girls** team for the [AWS Disaster Response Hackathon](https://awsdisasterresponse.devpost.com/)! 
 
 <img src="images/AIWonderGirlsLogo_small.png" width="200">
 
